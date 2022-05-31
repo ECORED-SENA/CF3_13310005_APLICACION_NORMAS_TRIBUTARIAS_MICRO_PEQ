@@ -1,0 +1,302 @@
+.banner-principal__row .banner-principal__img
+  width: 370px
+  padding: 0px 0px !important
+  margin-top: 60px
+
+.bloque-texto-a.color-secundario
+  background-color: #79DAE1
+
+.bloque-texto-a.color-secundario::before
+  background-color: #FFF0D6
+
+.bloque-texto-a::before
+  left: 40%
+
+.tabla-b.color-acento-contenido .tabla-b__header *, .color-acento-contenido.tabla-c .tabla-b__header *
+  color: #000000
+
+.tabla-b.color-acento-contenido .tabla-b__header, .color-acento-contenido.tabla-c .tabla-b__header
+  background-color: #79DAE1
+
+.tabla-b tr:nth-child(1n), .tabla-c tr:nth-child(1n)
+  background-color: #F6F6F6
+
+.tabla-b tr:nth-child(2n), .tabla-c tr:nth-child(2n)
+  background-color: white
+
+.tarjeta-flip.tarjeta .tarjeta-flip__img, .tarjeta-flip.tarjeta .tarjeta-flip__contenido
+  background-color: #FFF0D6
+
+.dual-txt-deco
+  position: relative
+  &::after
+    content: ""
+    position: absolute
+    bottom: -10px
+    right: 446px
+    width: 45%
+    height: 44%
+    background-color:#D9FCFF
+    z-index: 0
+  p
+    position: relative
+    z-index: 1
+
+.dual-txt-deco2
+  position: relative
+  &::after
+    content: ""
+    position: absolute
+    bottom: 200px
+    right: 400px
+    width: 45%
+    height: 44%
+    background-color:#D9FCFF
+    z-index: 0
+  p
+    position: relative
+    z-index: 1
+
+.tabs-a__tab
+  background-color: #79DAE1
+
+.tabs-a.color-acento-botones .tabs-a__tab__selected
+  background-color: #1A878E
+
+.tabs-a.color-acento-botones .tabs-a__tab__selected::before
+  background-color: #1A878E
+
+.tabs-a.color-acento-botones .tabs-a__tab:hover, .tabs-a.color-acento-botones .tabs-a__tab:active, .tabs-a.color-acento-botones .tabs-a__tab:focus
+  background-color: #1A878E
+
+.tarjeta.color-acento-botones
+  background-color: white
+  p
+    color: #12263F
+
+.tabs-b.color-acento-contenido .tabs-b__tab--active
+  background-color: #FFF0D6
+
+.tabs-b__tab
+  background-color: #FFF8EB
+
+.tabs-b__tab__icon
+  width: 80px
+
+.bloque-texto-a.color-primario
+  background-image: url(../assets/curso/tema1/img3.png)
+  background-repeat: no-repeat
+  background-size: 530px
+
+.bloque-texto-a.color-primario::before
+  background-color: #FFF0D6
+
+.tarjeta--azul
+  background-color: transparent
+  background-image: url(../assets/curso/tema1/img9.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.slyder-a__tipo-a .slyder-a__btn--atrs
+  left: -25px
+
+.slyder-a__tipo-a .slyder-a__btn--sigt
+  right: -25px
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #104469
+  opacity: 1
+
+.slyder-a__tipo-a .slyder-a__bullets
+  visibility: hidden
+
+.linea-tiempo-e__item__header
+  h3
+    margin-top: 15px
+
+.linea-tiempo-e.color-acento-contenido .linea-tiempo-e__item__header::before
+  border-color: #104469
+
+.boton.color-acento-contenido, .color-acento-contenido.boton--sm
+  background-color: #104469
+
+.cajon.color-primario
+  background-color: #D9FCFF
+
+.cajon.color-primario::before
+  background-color: #79DAE1
+
+.bloque-texto-a.color-acento-contenido
+  background-image: url(../assets/curso/tema3/img2.png)
+  background-repeat: no-repeat
+  background-size: 580px
+
+.bloque-texto-a.color-acento-contenido::before
+  background-color: #FFF0D6
+
+.tabs-c__tab
+  border-radius: 10px
+  border-bottom: white
+  background-color: #79DAE1
+  margin: 5px
+
+.tabs-c.color-primario .tabs-c__tab--active
+  background-color: #EF9F14
+  border-radius: 10px
+
+.tabs-c.color-primario .tabs-c__tab--active
+  border-bottom-color: white !important
+
+.tabs-c.color-primario .tabs-c__tab--active::before
+  border-top-color: white !important
+
+.tabs-c__tab::after
+  visibility: hidden
+
+.tabs-c__content-item
+  background-color: #D9FCFF
+  border-radius: 10px
+
+.tabs-c
+  border-bottom: 0px
+
+.bg-color1
+  background-color: #D9FCFF
+  margin-inline: 0.1rem !important
+
+.bg-color2
+  background-color: #C1F4F8
+  border-top-right-radius: 40px
+  border-bottom-left-radius: 40px
+
+.bg-color3
+  background-color: #FFF0D6
+  margin-inline: 0.1rem !important
+
+.bg-color4
+  background-color: #79DAE1
+
+.bg-color5
+  background-color: #FFF0D6
+  border-radius: 10px
+
+.bg-color6
+  background-color: #D9FCFF
+  border-radius: 10px
+
+.bg-color7
+  background-image: url(../assets/curso/tema3/img3.png)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: cover
+
+.bg-color8
+  border-radius: 10px
+  background: #9cd5ddc7
+  backdrop-filter: saturate(180%) blur(10px)
+
+.linea_naranja
+  background-color: #EF9F14
+  width: 36px
+  height: 8px
+
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none)
+  .bg-color8
+    -webkit-backdrop-filter: blur(10px)
+    backdrop-filter: blur(10px)
+
+.txt-deco1
+  background-color: #EF9F14
+  padding: 3px
+
+.txt-deco2
+  color: #EF9F14
+  border-bottom: #EF9F14 solid 2px
+  padding-bottom: 10px
+
+.txt-deco3
+  color: #1A878E !important
+
+@media screen and ( max-width: 1400px )
+
+  .banner-principal__row .banner-principal__img
+    margin-right: 70px
+
+  .banner-principal__info
+    margin-left: 25px
+
+  .dual-txt-deco
+    position: relative
+    &::after
+      right: 445px
+
+  .dual-txt-deco2
+    position: relative
+    &::after
+      bottom: 240px
+      right: 340px
+
+@media screen and ( max-width: 1200px )
+
+  .banner-principal__row .banner-principal__img
+    width: 350px
+    margin-right: -0px
+
+  .banner-principal__info
+    margin-left: 25px
+
+  .dual-txt-deco
+    position: relative
+    &::after
+      right: 320px
+
+  .dual-txt-deco2
+    position: relative
+    &::after
+      bottom: 280px
+      right: 280px
+
+@media screen and ( max-width: 1200px )
+
+  .dual-txt-deco
+    position: relative
+    &::after
+      right: 320px
+
+  .dual-txt-deco2
+    position: relative
+    &::after
+      bottom: 220px
+      right: 360px
+
+@media screen and ( max-width: 992px )
+
+  .dual-txt-deco
+    position: relative
+    &::after
+      right: 350px
+
+  .dual-txt-deco2
+    position: relative
+    &::after
+      bottom: 290px
+      right: 280px
+
+  .bloque-texto-a.color-acento-contenido
+    background-size: 950px
+    background-position-x: -100px
+
+  .bloque-texto-a::before
+    left: 0%
+
+@media screen and ( max-width: 768px )
+
+  .dual-txt-deco
+    position: relative
+    &::after
+      right: 280px
+
+  .dual-txt-deco2
+    position: relative
+    &::after
+      right: 260px
