@@ -32,13 +32,13 @@
                 i.fas.fa-download(style="color: #EF9F14 !important")
 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.mt-2
       .col-lg-10.px-0
         .row.justify-content-center.align-items-center.px-0
-          .col-lg-8
-            .cajon.color-primario.p-4
-              p Es importante recordar que el Estatuto Tributario se ha venido actualizando con el pasar de los gobiernos, así es que, de una u otra forma, se han ampliado o derogado artículos y se siguen generando cambios permanentes en el tema de impuestos en general, y en especial lo que compete en este segmento que es el tema sancionatorio.
-          .col-lg-4
+          .col-lg-9.col-md
+            .cajon.bg-vainilla.p-4
+              p.p-3 Es importante recordar que el Estatuto Tributario se ha venido actualizando con el pasar de los gobiernos, así es que, de una u otra forma, se han ampliado o derogado artículos y se siguen generando cambios permanentes en el tema de impuestos en general, y en especial lo que compete en este segmento que es el tema sancionatorio.
+          .col-lg-3(style="padding-left: 0;").d-none.d-sm-none.d-md-none.d-lg-block
             figure
               img(src='@/assets/curso/tema2/img2.svg').m-auto
 
