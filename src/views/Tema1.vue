@@ -156,7 +156,7 @@
               h3 Principales sanciones tributarias en Colombia
               p Para conocer en profundidad las sanciones anteriormente mencionadas, en el siguiente anexo se presenta la normativa y características principales de cada una.
             .col-lg-4.d-flex.justify-content-center
-              a.boton.color-acento-contenido.texto-blanco(href="/downloads/SancionesTributarias.pdf" target="_blank" type="application/pdf")
+              a.boton.color-acento-contenido.texto-blanco(href="downloads/SancionesTributarias.pdf" target="_blank" type="application/pdf")
                 span Descargar pdf
                 i.fas.fa-download(style="color: #EF9F14 !important")
 
