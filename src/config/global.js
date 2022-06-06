@@ -105,100 +105,120 @@ export default {
   },
   complementario: [
     {
-      texto: 'Correa D. (2020). <em>Impuestos en Colombia</em>.',
+      texto:
+        'Actualícese video. (2021). Régimen sancionatorio por la omisión de activos, defraudación fiscal o evasión tributaria.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=-p6FCB0p3o0&t=268s',
+      link: 'https://youtu.be/aYtRE_jKpxo',
     },
     {
       texto:
-        'Actualícese Video (2021). <em>Nueva reforma tributaria de los colombianos: novedades</em>.',
+        'Actualícese video. (2.021). Beneficios tributarios que incentivan la formalización empresarial.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=f2y8vKfyh0Q',
+      link: 'https://youtu.be/b6ycvna_S-s',
+    },
+    {
+      texto: 'Escuela de Trabajo Social UCR. (2018). Evasión y elusión fiscal.',
+      tipo: 'Video',
+      link: 'https://youtu.be/tT1XjDztXQ8',
+    },
+    {
+      texto:
+        'Contabilidad y finanzas online. (2.015). Qué es la evasión y elusión de impuestos.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=VEfOZrcrCmQ',
     },
   ],
   glosario: [
     {
-      termino: 'Estatuto tributario (E.T.)',
+      termino: 'Activos',
       significado:
-        'El estatuto tributario es considerado la máxima autoridad en materia de impuestos en Colombia, allí se reflejan la gran mayoría de normas tanto formales, como de fondo relacionadas con el recaudo tributario.',
+        'recurso con valor que una persona natural o jurídica posee con la intención de que genere un beneficio económico futuro.',
     },
     {
-      termino: 'ICA',
+      termino: 'Bases gravables',
       significado:
-        'También conocido como Impuesto de Industria y Comercio es una obligación municipal que se genera a partir de la ejecución de labores de industria, comercio o servicios generados en Bogotá o cualquier ciudad del país donde aplique, en las que directa o indirectamente se desarrollan de manera continua o eventual, con o sin establecimiento comercial.',
+        'valor sobre el cual se debe calcular un impuesto, puede ser IVA, renta, entre otros.',
     },
     {
-      termino: 'Persona natural',
+      termino: 'Contribuyente',
       significado:
-        'La persona natural se puede entender como aquel ser humano que desea desempeñar y ejercer obligaciones a título personal. Tomando en cuenta la manera como se constituye la empresa. Así, asume todas y cada una de las obligaciones que a futuro se le vayan a presentar.',
+        'persona física o jurídica que debe cumplir con las obligaciones tributarias impuestas por la normativa tributaria.',
     },
     {
-      termino: 'Persona jurídica',
+      termino: 'Deducción fiscal',
       significado:
-        'Una persona jurídica es una organización o grupo de personas naturales a la que la ley reconoce personalidad independiente y diferenciada de la de cada uno de sus miembros o componentes, capaz de ejercer derechos y contraer obligaciones, y de ser representada judicial y extrajudicialmente.',
+        'disminución de los impuestos que un contribuyente solicita, de conformidad con las autorizaciones mencionadas en la ley.',
     },
     {
-      termino: 'RUT',
+      termino: 'DIAN',
       significado:
-        'Quiere decir registro único tributario, y se convierte en el documento de identificación de los contribuyentes.',
+        'Dirección de Impuestos y Aduanas Nacionales (DIAN), es una entidad adscrita al Ministerio de Hacienda, establecida como una Unidad Administrativa Especial, mediante Decreto 2117 de 1992, mediante el cual se fusionaron la Dirección de Impuestos Nacionales (DIN) con la Dirección de Aduanas Nacionales (DAN).',
     },
     {
-      termino: 'Régimen',
+      termino: 'Estatuto Tributario',
       significado:
-        'Son características establecidas para la explicación de la tributación.',
+        'conjunto de normas que regulan la mayoría de los aspectos formales y sustanciales del recaudo de impuestos en Colombia, que corresponde al Decreto 624 de 1989.',
+    },
+    {
+      termino: 'Exención fiscal',
+      significado:
+        'derecho por el cual un hecho por el que debía pagarse un impuesto queda exonerado del mismo. Así, el contribuyente queda liberado de ese tributo de manera parcial o total por mandato de la ley.',
+    },
+    {
+      termino: 'Multa',
+      significado:
+        'sanción pecuniaria (en dinero o especies) que se aplica cuando un individuo u organización infringe alguna ley o normativa.',
+    },
+    {
+      termino: 'Retenciones',
+      significado:
+        'cantidad de dinero que un pagador descuenta del importe total de una factura de compra de servicios profesionales, nóminas de trabajadores y otras operaciones a título de anticipo de impuesto, que la ley exige para las partes.',
     },
     {
       termino: 'Sanción',
       significado:
-        'Es una multa monetaria para el desacato de las obligaciones tributarias.',
+        'pena que establece una ley o norma para quien la viole o la incumpla.',
     },
   ],
   referencias: [
     {
       referencia:
-        '<em>Ley 590 de 2000. Por la cual se dictan disposiciones para promover el desarrollo de las micro, pequeñas y medianas empresa</em>. Función pública (2000). 10 de julio de 2000. ',
+        'Congreso de Colombia. (2000). Ley 599 de 2000. Por medio de la cual se expide el Código Penal. (De la omisión de activos, la defraudación y la promoción de estructuras de evasión tributaria. Capítulo 12).',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=12672#:~:text=Cr%C3%A9ase%20el%20Fondo%20Colombiano%20de,es%20la%20financiaci%C3%B3n%20de%20proyectos%2C',
-    },
-    {
-      referencia: 'Dian. (2021). <em>Formularios e instructivos</em>. ',
-      link:
-        'https://www.dian.gov.co/atencionciudadano/formulariosinstructivos/Paginas/default.aspx',
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000_pr017.html',
     },
     {
       referencia:
-        'Decreto ley 624 de 1989. [Presidente de la República de Colombia]. Por el cual se expide el Estatuto Tributario de los impuestos administrados por la Dirección General de Impuesto Nacionales. Marzo 30 de 1989. ',
+        'Congreso de Colombia. (2016). Ley 1819 de 2016. Por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones.',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#:~:texto=Determina%20el%20impuesto%20sobre%20la,fiducia%20mercantil%20y%20de%20trabajo',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=79140',
+    },
+    {
+      referencia: 'DIAN. (2022). Beneficios tributarios y aduaneros.',
+      link:
+        'https://www.dian.gov.co/impuestos/reformatributaria/beneficiostributarios/Paginas/Beneficios-Tributarios.aspx',
+    },
+    {
+      referencia: 'Gerencie.com. (2022). Sanciones tributarias.',
+      link: 'https://www.gerencie.com/sanciones-tributarias.html',
     },
     {
       referencia:
-        'Decreto 1625 de 2016. [Presidente de la República de Colombia]. Por medio del cual se expide el Decreto Único Reglamentario en materia tributaria. Octubre 11 de 2016. ',
+        'Presidencia de la República de Colombia. (1989). Decreto Ley 624 de 1989. Por el cual se expide el Estatuto Tributario de los impuestos administrados por la Dirección General de Impuesto Nacionales.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#:~:text=Determina%20el%20impuesto%20sobre%20la,fiducia%20mercantil%20y%20de%20trabajo',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2022). Decreto 1625. Por medio del cual se expide el Decreto Único Reglamentario en materia tributaria.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=83233',
     },
     {
       referencia:
-        '<em>Decreto 1415 de 2018</em>. [Presidente de la República de Colombia]. Por el cual se modifica parcialmente el Capítulo 2 Título 1 Parte 6 del Libro 1 del Decreto 1625 de 2016 Único Reglamentario en Materia Tributaria. Agosto 3 de 2018. ',
+        'Salazar, C. (2021). Los cinco beneficios tributarios para las Pyme aprobados en la Ley de Inversión Social. La República. ',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=87868',
-    },
-    {
-      referencia:
-        'Garzón Giraldo & asociados. (2018). <em>Cinco Aspectos Clave Que Todo Contador Debe Conocer Sobre Impuestos</em>. ',
-      link:
-        'https://garzongiraldo.com.co/5-aspectos-clave-que-todo-contador-debe-conocer-sobre-impuestos/',
-    },
-    {
-      referencia:
-        '<em>Decreto 957 de 2.019</em>. [Ministerio de Comercio, Industria y Turismo]. Por el cual se adiciona el capítulo 13 al Título 1 de la Parte 2 del Libro 2 del Decreto 1074 de 2015, Decreto Único del Sector Comercio, Industria y Turismo y se reglamenta el artículo 2° de la Ley 590 de 2000, modificado por el artículo 43 de la Ley 1450 de 2011. ',
-      link:
-        'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20957%20DEL%2005%20DE%20JUNIO%20DE%202019.pdf',
-    },
-    {
-      referencia: 'Procolombia. (2022). <em>Impuestos en Colombia</em>. ',
-      link:
-        'https://investincolombia.com.co/es/como-invertir/impuestos-en-colombia',
+        'https://www.larepublica.co/economia/los-cinco-beneficios-tributarios-para-las-pyme-aprobados-en-la-ley-de-inversion-social-3251467 ',
     },
   ],
   creditos: {
@@ -227,7 +247,7 @@ export default {
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
-        nombre: 'Silvia Milena Sequeda Cárdenas',
+        nombre: 'Alix Cecilia Chinchilla Rueda',
         cargo: 'Asesora metodológica',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -270,40 +290,30 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Camilo Andrés Bolaño Rey',
-        cargo: 'Locución',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Mayerly Pérez Jaimes',
+        nombre: 'Carlos Eduardo Garavito',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Jhon Jairo Urueta Alvarez',
+        nombre: 'Laura Ximena Hurtado',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego',
         cargo: 'Desarrollo front-end',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Maria Eugenia Mejía López',
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

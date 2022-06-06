@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1239" height="460" viewBox="0 0 1239 460">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_44541" data-name="Rectángulo 44541" width="1239" height="460" rx="20" transform="translate(0 0)" fill="#ef9f14"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.044" y1="0.022" x2="0.45" y2="0.483" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#104469"/>
+      <stop offset="1" stop-color="#edf8ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.044" y1="0.022" x2="0.45" y2="0.483" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0bf69"/>
+      <stop offset="1" stop-color="#edf8ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_146442" data-name="Grupo 146442" transform="translate(-285 -8955.707)">
+    <rect id="Rectángulo_44244" data-name="Rectángulo 44244" width="1239" height="460" rx="20" transform="translate(285 8955.707)" fill="#d9e9f4"/>
+    <g id="Enmascarar_grupo_143950" data-name="Enmascarar grupo 143950" transform="translate(285 8955.707)" clip-path="url(#clip-path)">
+      <path id="Trazado_194129" data-name="Trazado 194129" d="M473.073,0C734.344,0,946.145,147.783,946.145,330.083s-211.8,330.083-473.073,330.083S0,512.383,0,330.083,211.8,0,473.073,0Z" transform="translate(-146.427 -106.519)" fill="#edf8ff"/>
+    </g>
+    <rect id="Rectángulo_44547" data-name="Rectángulo 44547" width="38" height="4" transform="translate(1486 8990.707)" fill="#ef9f14"/>
+    <rect id="Rectángulo_44548" data-name="Rectángulo 44548" width="83" height="2" transform="translate(1441 8999.707)" fill="#104469"/>
+    <rect id="Rectángulo_44549" data-name="Rectángulo 44549" width="247" height="244" rx="20" transform="translate(285 8955.707)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_44550" data-name="Rectángulo 44550" width="247" height="244" rx="20" transform="translate(1524 9415.707) rotate(180)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
