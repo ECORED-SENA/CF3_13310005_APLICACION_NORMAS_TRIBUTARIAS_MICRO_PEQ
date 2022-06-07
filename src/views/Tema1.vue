@@ -18,10 +18,27 @@
 
     p.mb-5(data-aos="fade-right") El conocimiento sobre este tema resulta de suprema importancia para los emprendedores, y si eventualmente no se tiene conocimiento o claridad en estos aspectos, la recomendación es contratar una asesoría o consultoría, de tal forma que las micro y pequeñas empresas disminuyan la posibilidad de sanciones. Otro aspecto clave al momento de diligenciar las declaraciones tributarias, es revisar con mucho cuidado los cálculos que se deben realizar o liquidar en materia de impuestos de conformidad con lo establecido en los distintos ordenamientos fiscales tanto nacionales como territoriales.
 
-    .row.m-0.align-items-center.justify-content-center.my-5(data-aos="zoom-in-up")
-      .col-lg-7.mb-4.mb-lg-0
+
+
+
+    .d-flex.align-items-center.justify-content-center(data-aos="zoom-in-up")
+      .col-12.col-lg-8
         figure
-          img(src='@/assets/curso/tema1/img2.png').m-auto
+          img(src='@/assets/curso/tema1/formulario.jpg', style="width: 820px").m-auto
+
+    .tarjeta.color-primario.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/tema1/icon-formulario.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Declaración de renta
+              p.text-small Para más información sobre el proceso de diligenciamiento de un formulario de declaración de renta, clic en el siguiente enlace
+            .col-sm-auto
+              a.boton.color-acento-contenido.texto-blanco(href="https://www.dian.gov.co/impuestos/personas/Renta-Personas-Naturales-AG-2020/Paginas/Como-diligenciar-la-declaracion-de-Renta-Form110.aspx" target="_blank")
+                span Ir al sitio
+                i.fas.fa-link(style="color: #EF9F14 !important")
 
 
     .row.justify-content-center.mb-5(data-aos="fade-left")
@@ -36,14 +53,15 @@
                 span Ver Video
                 i.fas.fa-video(style="color: #EF9F14 !important")
 
-    p.mb-5 El régimen sancionatorio en Colombia consta de principios y sanciones tributarias, el primero es la base para tener en cuenta la aplicación de las sanciones:
+    p.mb-5(data-aos="fade-right") El régimen sancionatorio en Colombia consta de principios y sanciones tributarias, el primero es la base para tener en cuenta la aplicación de las sanciones:
 
     #t_1_1
       .titulo-segundo.color-secundario
         h2 1.1 Principios del régimen sancionatorio en tributarios
-    p.mb-5 Este régimen sancionatorio en Colombia debe determinar la carga de impuestos con base fundamental en los principios establecidos para conseguir una justicia tributaria.
 
-    .row.bg-color1.mb-4
+    p.mb-5(data-aos="fade-left") Este régimen sancionatorio en Colombia debe determinar la carga de impuestos con base fundamental en los principios establecidos para conseguir una justicia tributaria.
+
+    .row.bg-color1.mb-4(data-aos="fade-right")
       .col-12.py-5
         .row.justify-content-center
           .col-10
@@ -58,11 +76,11 @@
                 p.mb-5 Por otra parte, <strong>la Ley 1819 del 29 de diciembre de 2016 es:</strong>
                 p Por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones.
 
-    p.mb-5 Esta Ley introdujo los principios de gradualidad y proporcionalidad de las sanciones tributarias para incentivar a los contribuyentes sancionados, o que hayan incumplido con sus responsabilidades, a que puedan ponerse al día con estas y con la posibilidad de disminuir el pago de multas o sanciones.
+    p.mb-5(data-aos="fade-left") Esta Ley introdujo los principios de gradualidad y proporcionalidad de las sanciones tributarias para incentivar a los contribuyentes sancionados, o que hayan incumplido con sus responsabilidades, a que puedan ponerse al día con estas y con la posibilidad de disminuir el pago de multas o sanciones.
 
-    p.mb-5 <strong>Para ilustrar algunos principios considerados en el régimen sancionatorio tributario en Colombia, a continuación, se presenta la siguiente infografía:</strong>
+    p.mb-5(data-aos="fade-right") <strong>Para ilustrar algunos principios considerados en el régimen sancionatorio tributario en Colombia, a continuación, se presenta la siguiente infografía:</strong>
 
-    .row.bg-color3.mb-4
+    .row.bg-color3.mb-4(data-aos="fade-left")
       .col-12.py-5
         .row.align-items-center.justify-content-center
           .col-11
@@ -87,11 +105,12 @@
 
               .tarjeta.color-acento-botones.p-3(x="62%" y="110%" numero="4")
                 h5.mb-2.txt-deco3 Gradualidad
-                p Este principio busca la justicia. En materia tributaria persigue equilibrar tanto las cargas tributarias como los beneficios tributarios de manera ecuánime. Es decir, que tanto la imposición de impuestos a los contribuyentes no resulte excesiva, como que los beneficios a estos nos resultan exagerados.
+                p Las sanciones deben aplicarse de manera paulatina según el acto de grado gravedad de la falta cometida, en esa misma medida deben venir las posibles sanciones.
+
 
               .tarjeta.color-acento-botones.p-3(x="74%" y="110%" numero="5")
                 h5.mb-2.txt-deco3 Progresividad
-                p Cuando se utiliza la menor cantidad de recursos para conseguir un mismo objetivo. Este principio trata de la capacidad del estado en cabeza de sus entes encargados de los tributos, de fijar un impuesto a los contribuyentes o responsables y poder recaudarlos de manera práctica y sencilla.
+                p Este principio en el contexto tributario, expone que los impuestos que se deben pagar por parte de los contribuyentes, no pueden resultar exagerados con ocasión a las posibilidades económicas de las personas naturales o jurídicas obligadas a tributar.
 
 
               .tarjeta.color-acento-botones.p-3(x="85%" y="110%" numero="3")
@@ -109,7 +128,7 @@
       .titulo-segundo.color-secundario
         h2 1.2 Sanciones tributarias
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-lg-3.mb-4
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img5.svg', style="width: 220px").m-auto
@@ -118,7 +137,7 @@
           p(style="position: relative; z-index: 1;") Haciendo un poco de historia normativa, en la Constitución Política de Colombia de 1991 el numeral 9 del artículo 95 indica que es deber ciudadano “contribuir al financiamiento de los gastos e inversiones del Estado dentro de conceptos de justicia y equidad” y esto último se ve reflejado en los principios del régimen sancionatorio: la justicia y la equidad.
           p <strong>Por otra parte, el artículo 684 del Estatuto Tributario,</strong> le otorga a la DIAN una cantidad importante de herramientas que la facultan para llevar a cabo, de manera adecuada, los procesos de investigación y fiscalización necesarios para conseguir que los responsables, personas naturales o jurídicas, cumplan con la normatividad tributaria. Dentro de dichas facultades, la DIAN puede verificar la autenticidad de los datos o sumas registradas tanto en las declaraciones tributarias presentadas, así como auditar la información suministrada en los demás informes solicitados.
 
-    p.mb-5 De acuerdo con lo expuesto, contribuyente que haga caso omiso a estas responsabilidades, podrá verse penalizado con algún tipo de sanción, es por este motivo que la DIAN, en ejercicio de las funciones otorgadas, tiene definidas una serie de multas aplicables directamente a todas aquellas personas naturales y/o jurídicas que no den cumplimiento de manera oportuna a los compromisos tributarios. Entre las sanciones más frecuentes se encuentran las siguientes:
+    p.mb-5(data-aos="fade-left") De acuerdo con lo expuesto, contribuyente que haga caso omiso a estas responsabilidades, podrá verse penalizado con algún tipo de sanción, es por este motivo que la DIAN, en ejercicio de las funciones otorgadas, tiene definidas una serie de multas aplicables directamente a todas aquellas personas naturales y/o jurídicas que no den cumplimiento de manera oportuna a los compromisos tributarios. Entre las sanciones más frecuentes se encuentran las siguientes:
 
     .row.mb-4.align-items-center.justify-content-center
       .col-12.col-md-10
@@ -129,7 +148,7 @@
             figure(data-aos="zoom-in-up")
               img(src='@/assets/curso/tema1/img6.svg').m-auto
 
-    .row.bg-color1.mb-5
+    .row.bg-color1.mb-5(data-aos="fade-right")
       .col-12.py-5
         .row.justify-content-center
           .col-lg-3
@@ -142,13 +161,13 @@
     .titulo-quinto.color-acento-contenido
       h4 Sanciones tributarias
 
-    figure.my-5
+    figure(data-aos="zoom-in-up").my-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/nk249S3Wfck" title="Sanciones tributarias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.my-5 Para conocer en profundidad las sanciones anteriormente mencionadas,  se presenta la normativa y características principales de cada una:
+    p.my-5(data-aos="fade-left") Para conocer en profundidad las sanciones anteriormente mencionadas,  se presenta la normativa y características principales de cada una:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in-up")
       .col-lg-8.bg-color4
         .p-5
           .row.align-items-center

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
-      h1 Otras disposiciones tributarias
+      h1 Alivios y beneficios tributarios
 
     .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5(data-aos="zoom-in-up")
       .row.m-0.align-items-center.justify-content-between
@@ -16,9 +16,9 @@
           .bloque-texto-a__texto.p-4
             p Estos  hacen referencia a las estrategias implementadas por el Estado a nivel nacional o de los municipios para recaudar su cartera tributaria, y es que, dentro de dichas tácticas, el recaudador incentiva el pago de los morosos, por ejemplo, condonando multas, sanciones y en algunos casos los intereses de manera total o parcial, dentro de algunos plazos establecidos normalmente en las reformas tributarias que se decreten.
 
-    p.mb-5 En el siguiente enlace, se encuentra mayor información, según la DIAN, sobre beneficios tributarios:
+    p.mb-5(data-aos="fade-right") En el siguiente enlace, se encuentra mayor información, según la DIAN, sobre beneficios tributarios:
 
-    .row.justify-content-center.mb-0
+    .row.justify-content-center.mb-0(data-aos="zoom-in-up")
       .col-lg-10
         .p-5.bg-color4
           .row.align-items-center
@@ -30,7 +30,7 @@
                 span Ver documento
                 i.fas.fa-link(style="color: #EF9F14 !important")
 
-    .row.justify-content-center.mt-2
+    .row.justify-content-center.mt-2(data-aos="fade-left")
       .col-lg-10
 
         .d-flex.mb-5.px-0
@@ -40,22 +40,22 @@
           .col-lg-3.d-none.d-lg-flex.align-items-center.justify-content-center.bg-celeste
             img(src="@/assets/curso/tema3/icon-2.svg", style="max-width: 125px;")
 
-    p.mb-5 Adicionalmente, este tipo de beneficios tributarios busca incentivar el crecimiento económico de las micro y pequeñas empresas y demás personas jurídicas, con el fin de dinamizar los sectores y finalmente el desarrollo integral del país.
+    p.mb-5(data-aos="fade-right") Adicionalmente, este tipo de beneficios tributarios busca incentivar el crecimiento económico de las micro y pequeñas empresas y demás personas jurídicas, con el fin de dinamizar los sectores y finalmente el desarrollo integral del país.
 
-    p.mb-5
+    p.mb-5(data-aos="fade-left")
       strong Así, los alivios y beneficios tributarios sirven para:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-up")
       .col-12.col-lg-10
         .titulo-sexto.color-acento-contenido.mb-5
           p.mb-0 #[b Figura 2.] Beneficios tributarios
         figure
-          img(src="@/assets/curso/tema3/img3.png", style="max-width: 1239px").m-auto
+          img(src="@/assets/curso/tema3/img3.png", style="max-width: 924px").m-auto
 
 
     p.mb-4 A continuación, se mencionan algunos beneficios tributarios vigentes de acuerdo con la normativa tributaria en Colombia.
 
-    .tarjeta.tarjeta--azul.p-1
+    .tarjeta.tarjeta--azul.p-1(data-aos="fade-right")
       SlyderA
         .row.justify-content-center
           .col-11.p-3
@@ -134,7 +134,7 @@
                 figure
                   img(src='@/assets/curso/tema3/img45.svg', style="max-width: 492px").m-auto
 
-    p.my-5 Finalmente, se mencionan algunos beneficios tributarios que favorecen exclusivamente a las personas naturales, como son:
+    p.my-5(data-aos="fade-left") Finalmente, se mencionan algunos beneficios tributarios que favorecen exclusivamente a las personas naturales, como son:
 
     .row.justify-content-center.mt-4
       .col-12.col-lg-8

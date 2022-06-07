@@ -253,9 +253,9 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Jhon Jairo Rodríguez Pérez',
-        cargo: 'Diseñador y evaluador instruccional',
-        centro: 'Centro de diseño y metrología - Regional Distrito Capital',
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
       },
     ],
     desarrolloProducto: [
