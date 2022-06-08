@@ -152,7 +152,7 @@ export default {
     {
       termino: 'DIAN',
       significado:
-        'Dirección de Impuestos y Aduanas Nacionales (DIAN), es una entidad adscrita al Ministerio de Hacienda, establecida como una Unidad Administrativa Especial, mediante Decreto 2117 de 1992, mediante el cual se fusionaron la Dirección de Impuestos Nacionales (DIN) con la Dirección de Aduanas Nacionales (DAN).',
+        ' Dirección de Impuestos y Aduanas Nacionales (DIAN), es una entidad adscrita al Ministerio de Hacienda, establecida como una Unidad Administrativa Especial, mediante Decreto 2117 de 1992, mediante el cual se fusionaron la Dirección de Impuestos Nacionales (DIN) con la Dirección de Aduanas Nacionales (DAN).',
     },
     {
       termino: 'Estatuto Tributario',
